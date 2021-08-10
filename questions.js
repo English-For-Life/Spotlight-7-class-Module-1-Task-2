@@ -8,7 +8,7 @@ const quiz = [
     },
     {
         q:"We really like the ...... and quiet in this village.",
-        options:["peace", "landscape"],
+        options:["landscape", "peace"],
         answer: 1
     },
     {
